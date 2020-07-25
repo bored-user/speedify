@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Speedify",
-    "version": "1.0",
+    "version": "1.6",
     "description": "Adds 2.25, 2.5, 2.75, 3.0, 3.25, 3.5, 3.75 and 4.0 speed options on video playbacks.",
     "icons": {
         "48": "icons/speed-48.png",
